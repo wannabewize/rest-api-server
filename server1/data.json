@@ -1,61 +1,103 @@
 {
-	"movies": [
+  "movies": [
     {
       "id": "movie01",
-      "title": "어벤져스",
-      "director": "조스 웨던",
-      "synopsis": "히어로들의 모임, 어벤져스 결성",
-      "poster": "포스터 URL 5",
-      "actors": [
-        "로버트 다우니 주니어",
-        "크리스 헴스워스",
-        "스칼렛 요한슨"
-      ],
-      "release": 2012,
-      "comments": []
-    },    
-    {
-      "id": "movie02",
-      "title": "어벤져스: 엔드게임",
-      "director": "안소니 루소, 조 루소",
-      "synopsis": "어벤져스의 최후의 전투",
-      "poster": "포스터 URL 1",
-      "actors": ["로버트 다우니 주니어", "크리스 에반스", "스칼렛 요한슨"],
-      "release": 2019,
+      "title": "아이언맨",
+      "director": "존 패브로",
+      "synopsis": "천재적인 두뇌와 재능으로 세계 최고의 군수 산업체 스타크 인더스트리를 이끄는 CEO이자, 타고난 매력으로 셀러브리티 못지 않은 화려한 삶을 살아가던 억만장자 토니 스타크는 아프가니스탄에서 자신이 개발한 신무기 '제리코 미사일' 발표를 성공리에 마치고 돌아가던 중에 테러리스트의 갑작스런 습격에 의해 가슴에 치명적인 부상을 입고 그들에게 납치당한다. 테러리스트들은 토니를 동굴에 가둬다가 제리코 미사일을 만들어 내라고 고문과 협박을 하게 되고, 목숨을 잃을 위기에 처한 토니는 테러리스트들이 제공한 무기 제작 재료들을 이용해 탈출을 위한 철갑슈트를 만드는데 성공하여 그의 첫 슈트인 ‘Mk.1’을 입고 탈출에 성공한다. 미국으로 돌아온 토니 스타크는 자신이 만든 무기가 많은 사람의 생명을 위협하고, 세상을 엄청난 위험에 몰아넣고 있다는 사실을 깨닫고 무기사업에서 손 뗄 것을 선언한다. 그리고, Mk.1을 토대로 최강의 하이테크 슈트를 개발하는 것에 자신의 천재적인 재능과 노력을 쏟아 붓기 시작한다. 탈출하는 당시 부서져버린 Mk.1을 바탕으로 보다 업그레이드된 슈트 Mk.2를 만들어낸 토니 스타크. 거기에 만족하지 않고, 숱한 시행착오와 실패 끝에 자신의 모든 능력과 현실에서 가능한 최강의 최첨단 과학 기술이 집적된 하이테크 슈트 Mk.3를 마침내 완성, 최강의 슈퍼히어로 ‘아이언맨’으로 거듭난다. 토니 스타크가 탈출하는 과정을 통해 Mk.1의 가공할 위력을 확인한 게릴라 군은 토니 스타크가 미처 회수하지 못한 Mk.1의 잔해와 설계도를 찾아낸다. Mk.1을 재조립하여 그들의 목적을 이루기 위한 거대하고 강력한 철갑슈트를 제작하려는 음모를 꾸미는 게릴라군. 토니 스타크가 갖고 있던 에너지원을 훔쳐 ‘아이언맨’을 능가하는 거대하고 강력한 ‘아이언 몽거’를 완성한 그들은 세계 평화를 위협하고, 토니 스타크는 그들의 음모과 배후세력이 누구인지를 알게 되는데...!",
+      "poster": "https://i.namu.wiki/i/kkazPqUFv6VuzGn-KFlqejb2BbGGjuZ827S93CSiWcTC4JqzNsR7dSpzPWMpvMG6PScOANQPfyoq6GnfrxPg4Jt4gGdlnB13O62ObFZxIZivVI0aawO4uAB3P-i8_7fZnxvDHvCoI7gIR9s0Zle98A.webp",
+      "actors": ["로버트 다우니 주니어", "테렌스 하워드", "제프 브리지스", "기네스 팰트로우"],
+      "release": 2008,
       "comments": []
     },
     {
-      "id": "movie03",
-      "title": "스파이더맨: 홈커밍",
-      "director": "존 왓츠",
-      "synopsis": "피터 파커의 스파이더맨의 첫 모험",
-      "poster": "포스터 URL 4",
-      "actors": [
-        "톰 홀랜드",
-        "마이클 키튼",
-        "로버트 다우니 주니어"
-      ],
-      "release": 2017,
+      "id": "movie02",
+      "title": "퍼스트 어벤져",
+      "director": "조 존스턴",
+      "synopsis": "세계 전쟁으로 암흑에 빠진 시기, 한 남자가 군 입대를 자원한다. 그의 이름은 ‘스티브 로저스’. 남들보다 왜소하고 마른 체격으로 인해 입대마저 번번히 거부당하던 그는 포기를 모르는 근성과 강한 희생 정신을 인정받아 최고의 전사를 양성하는 ‘슈퍼 솔져’ 프로젝트에 스카우트된다. 비밀리에 진행된 실험을 통해 가장 완벽한 육체와 인간의 한계를 초월한 신체 능력을 얻게 된 스티브. 그는 모두에게 ‘캡틴’으로 불리며, 시대의 영웅으로 새롭게 태어난다. 하지만 그의 등장에 맞서 거대한 ‘히드라’ 조직을 앞세운 적의 공격은 한층 막강해지고, 그 핵심에 선 ‘레드 스컬’은 인류를 위협하는 최후의 전투를 준비하는데...세계를 위협하는 전쟁, 그 한가운데로 향한 ‘캡틴’슈퍼히어로의 역사로 남을 그의 활약이 시작된다!",
+      "poster": "https://i.namu.wiki/i/F16XjhvrANHK0YAX5njmGOvRuJnzhlWflp7iK2fSqkaiYTn0BNiFfXN1Aeo2DLkxE-tG9zEwDSv1NnnjCqAVKuL51SN5Sfgk5VOUUlV-Mwj7qjelodfHelkxLRe-LF4bvhIye25S43HxEuCwAYesBw.webp",
+      "actors": ["크리스 에반스", "토미 리 존스", "휴고 위빙"],
+      "release": 2011,
       "comments": []
     },    
     {
+      "id": "movie03",
+      "title": "어벤져스",
+      "director": "조스 웨던",
+      "synopsis": "ASSEMBLE! 최강의 슈퍼히어로들이 모였다!지구의 운명을 건 거대한 전쟁이 시작된다!지구의 안보가 위협당하는 위기의 상황에서 슈퍼히어로들을 불러모아 세상을 구하는, 일명 [어벤져스] 작전. 에너지원 ‘큐브’를 이용한 적의 등장으로 인류가 위험에 처하자 국제평화유지기구인 쉴드 (S.H.I.E.L.D)의 국장 닉 퓨리(사무엘 L.잭슨)는 [어벤져스] 작전을 위해 전 세계에 흩어져 있던 슈퍼히어로들을 찾아나선다. 아이언맨(로버트 다우니 주니어)부터 토르(크리스 헴스워스), 헐크(마크 러팔로), 캡틴 아메리카(크리스 에반스)는 물론, 쉴드의 요원인 블랙 위도우(스칼렛 요한슨), 호크 아이(제레미 레너)까지, 최고의 슈퍼히어로들이 [어벤져스]의 멤버로 모이게 되지만, 각기 개성이 강한 이들의 만남은 예상치 못한 방향으로 흘러가는데… 지구의 운명을 건 거대한 전쟁 앞에 [어벤져스] 작전은 성공할 수 있을까?",
+      "poster": "https://i.namu.wiki/i/9EGCUH18UhXHE7EDl4g3eLvzwX9mwTFcnAcjR2BJnccY5uzorZeGn5Us_DSJk7rgtNyzGQpm7h760g3GER7otWROSTeIDNzaW0S7Nj9bQRAkwwzacgX0nuA0jU6hhhHwHjqVRLpAg0anSWJrfFLFSA.webp",
+      "actors": [
+        "로버트 다우니 주니어", 
+        "크리스 에반스",
+        "마크 러팔로",
+        "크리스 헴스워스",
+        "스칼렛 요한슨",
+        "제레미 레너",
+        "톰 히들스턴",
+        "새뮤얼 L. 잭슨"
+      ],
+      "release": 2012,
+      "comments": []
+    },
+    {
       "id": "movie04",
-      "title": "블랙 팬서",
-      "director": "라이언 쿠글러",
-      "synopsis": "와칸다의 왕이자 영웅, 블랙 팬서의 이야기",
-      "poster": "포스터 URL 2",
-      "actors": ["차드윅 보스만", "마이클 B. 조던", "루피타 나옹고"],
-      "release": 2018,
+      "title": "가디언즈 오브 갤럭시",
+      "director": "제임스 건",
+      "synopsis": "자칭 전설의 무법자 스타로드, 그러나 현실은 우주를 떠도는 그저그런 좀도둑에 불과한 피터 퀼(크리스 프랫). 뜻하지 않게 갤럭시의 절대악 타노스와 로난의 타겟이 된 그는 감옥에서 만난 암살자 가모라(조 샐다나), 거구의 파이터 드랙스(데이브 바티스타), 현상금 사냥꾼 로켓(브래들리 쿠퍼)과 그루트(빈 디젤) 콤비와 불편한 동맹을 맺고 일명 ‘가디언즈 오브 갤럭시’를 결성한다. 범상치 않은 화려한 과거를 지닌 이들이 과연 120억 명의 운명을 구할 유일한 희망이 될 수 있을까? 흩어지면 무법자, 뭉치면 히어로 차원이 다른 마블의 새로운 세계를 목격하라!",
+      "poster": "https://i.namu.wiki/i/O2VvRv78mVt757eK11KD-xGn3TkrX_tZ16CGWaj-mou-NdB8dNLSXND3bOn-h_qdU2d0dmXWuCLGkZ8NT7auyUi731NEeqgKL9qfDeTq950HspLBKvHJaYWeZj4x_Ymdpw7rUi5HBkIrvSjRyFn45A.webp",
+      "actors": ["크리스 프랫", "조 샐다나", "데이브 바티스타", "브래들리 쿠퍼", "빈 디젤"],
+      "release": 2014,
       "comments": []
     },
     {
       "id": "movie05",
-      "title": "아이언맨",
-      "director": "존 파브로",
-      "synopsis": "토니 스타크가 아이언맨이 되는 이야기",
-      "poster": "포스터 URL 3",
-      "actors": ["로버트 다우니 주니어", "제프 브리지스", "기네스 팰트로"],
-      "release": 2008,
+      "title": "닥터 스트레인지",
+      "director": "스콧 데릭슨",
+      "synopsis": "불의의 사고로 절망에 빠진 천재 외과의사 ‘닥터 스트레인지(베네딕트 컴버배치)’. 마지막 희망을 걸고 찾아 간 곳에서 ‘에인션트 원(틸다 스윈튼)’을 만나 세상을 구원할 강력한 능력을 얻게 되면서, 모든 것을 초월한 최강의 히어로로 거듭나는데...",
+      "poster": "https://i.namu.wiki/i/6p-FhrQ7nThgZznyb3JBrwkFjtEMIWzpDXObYxaEPu_WwVq2sH7YEHLiwEe1JgKSYSQScg0pTsk7S6facWDvxuoRsr3-1Dm_gUDJxXdGOwFb2LT_s61Q_vENKv11qZ8IKQzbqjYWQ7dhE3uZdkmQ7g.webp",
+      "actors": ["베네딕트 컴버배치", "레이첼 맥아담스", "틸다 스윈튼", "추이텔 에지오포", "매즈 미켈슨", "베네딕트 웡"],
+      "release": 2016,
+      "comments": []
+    },
+    {
+      "id": "movie06",
+      "title": "스파이더맨: 홈커밍",
+      "director": "존 왓츠",
+      "synopsis": "‘시빌 워’ 당시 ‘토니 스타크’(로버트 다우니 주니어)에게 발탁되어 대단한 활약을 펼쳤던 스파이더맨 ‘피터 파커’(톰 홀랜드). 그에게 새로운 수트를 선물한 ‘토니 스타크’는 위험한 일은 하지 말라며 조언한다. 하지만 허세와 정의감으로 똘똘 뭉친 ‘피터 파커’는 세상을 위협하는 강력한 적 ‘벌처’(마이클 키튼)에 맞서려 하는데… 아직은 어벤져스가 될 수 없는 스파이더맨 숙제보다 세상을 구하고 싶은 스파이더맨 그는 과연 진정한 히어로로 거듭날 수 있을 것인가!",
+      "poster": "https://i.namu.wiki/i/rPpJ6Zm-S2FIk5gFe0SODq7QlCzCwjVajoFZJYlAlqj2T4t7F_1bjmwR5qu0boI3ZJDJQwelJ_3XvxKNuvf17twaTD6aF5RIzJs40UGdY4doexZEzQgjIUMOJZQU-b0SEi7yMgpnvFmlh-Lqprvhng.webp",
+      "actors": ["톰 홀랜드", "마이클 키튼", "로버트 다우니 주니어"],
+      "release": 2017,
+      "comments": []
+    },
+    {
+      "id": "movie07",
+      "title": "블랙 팬서",
+      "director": "라이언 쿠글러",
+      "synopsis": "‘시빌 워’ 이후 와칸다의 왕위를 계승한 티찰라(채드윅 보스만)는 와칸다에만 존재하는 최강 희귀 금속 ‘비브라늄’과 왕좌를 노리는 숙적들의 음모가 전세계적인 위협으로 번지자 세상을 구할 히어로 ‘블랙 팬서’로서 피할 수 없는 전쟁에 나서는데…",
+      "poster": "https://i.namu.wiki/i/wRjGQwj6LDZOgL4Q8mYxgAAMIlb55FFw-jaYQ6x1hMhFIpBSFrEHjPntIFtVuGi928knggXkeNbIzIgq_ruJrwbTNzIkGRknRYuT2eH88x9oq16Aa9r2jpHlCDHGfU97u-gEQ0AOiku2-tsMI1pLEA.webp",
+      "actors": ["채드윅 보즈먼", "마이클 B. 조던", "루피타 뇽오", "다나이 구리라", "마틴 프리먼", "앤디 서키스"],
+      "release": 2018,
+      "comments": []
+    },
+    {
+      "id": "movie08",
+      "title": "어벤져스: 인피니티 워",
+      "director": "앤서니 루소, 조 루소",
+      "synopsis": "가디언즈 오브 갤럭시 멤버들과 와칸다 군대, 닥터 스트레인지 등 새로운 팀들과 함께 환상의 대연합을 이룬 어벤져스, 역대 최강 빌런 타노스에 맞서 전 우주에 운명이 걸린 인피니티 스톤을 향한 무한 대결이 펼쳐진다!",
+      "poster": "https://i.namu.wiki/i/Hk6HhECAGaGeFQdUT2dsL0zveTEWnPQdxVjSbdT7vb3rLiRBHg8TYtk_tHbwAg-sTfrgTS9A7Qccn7X3T8gKB1V3oLhnqPtN0bZzlA0jHy1Hwh2n2it_p_aXzka6UlCW_uQFQDshqYE2vDg7vdAPVg.webp",
+      "actors": ["로버트 다우니 주니어", "크리스 헴스워스", "마크 러팔로", "크리스 에반스", "스칼렛 요한슨", "베네딕트 컴버배치", "돈 치들", "톰 홀랜드", "채드윅 보스만", "폴 베타니", "엘리자베스 올슨", "앤서니 매키",
+      "세바스찬 스탠", "다나이 구리라","레티티아 라이트", "데이브 바티스타", "조 샐다나", "조시 브롤린", "크리스 프랫"],
+      "release": 2018,
+      "comments": []
+    },
+    {
+      "id": "movie09",
+      "title": "어벤져스: 엔드게임",
+      "director": "앤서니 루소, 조 루소",
+      "synopsis": "인피니티 워 이후 절반만 살아남은 지구, 마지막 희망이 된 어벤져스. 먼저 떠난 그들을 위해 모든 것을 걸었다! 위대한 어벤져스, 운명을 바꿀 최후의 전쟁이 펼쳐진다!",
+      "poster": "https://i.namu.wiki/i/Hg8IyDUz-me0_PYFL4VIk4-_2LQD0VdJhUsQEfpDaW8GkzLwMgmQlx9GfYDqFG7ByROdxjj12JUD-SMIlag76yDitwUw7Mn1v6WaQRhvy6IeP7WkirH5FfB6EbWu6RzMP4Y70ZAdFFGHo7vg-xIvGg.webp",
+      "actors": ["로버트 다우니 주니어", "크리스 에반스", "마크 러팔로", "크리스 헴스워스", "스칼렛 요한슨", "제레미 레너", "돈 치들", "폴 러드", "브리 라슨", "카렌 길런", "다나이 구리라", "브래들리 쿠퍼", "조시 브롤린"],
+      "release": 2019,
       "comments": []
     }
   ],
@@ -65,7 +107,11 @@
       "name": "로버트 다우니 주니어",
       "nationality": "미국",
       "birth_year": 1965,
-      "movies": ["어벤져스: 엔드게임", "아이언맨", "어벤져스"],
+      "movies": [
+        "어벤져스: 엔드게임",
+        "아이언맨",
+        "어벤져스"
+      ],
       "comments": []
     },
     {
@@ -73,7 +119,11 @@
       "name": "크리스 에반스",
       "nationality": "미국",
       "birth_year": 1981,
-      "movies": ["어벤져스: 엔드게임", "캡틴 아메리카: 시빌 워", "어벤져스"],
+      "movies": [
+        "어벤져스: 엔드게임",
+        "캡틴 아메리카: 시빌 워",
+        "어벤져스"
+      ],
       "comments": []
     },
     {
@@ -81,7 +131,11 @@
       "name": "스칼렛 요한슨",
       "nationality": "미국",
       "birth_year": 1984,
-      "movies": ["어벤져스: 엔드게임", "블랙 위도우", "어벤져스"],
+      "movies": [
+        "어벤져스: 엔드게임",
+        "블랙 위도우",
+        "어벤져스"
+      ],
       "comments": []
     },
     {
@@ -89,7 +143,11 @@
       "name": "차드윅 보스만",
       "nationality": "미국",
       "birth_year": 1976,
-      "movies": ["블랙 팬서", "어벤져스: 엔드게임", "블랙 팬서: 왈커"],
+      "movies": [
+        "블랙 팬서",
+        "어벤져스: 엔드게임",
+        "블랙 팬서: 왈커"
+      ],
       "comments": []
     },
     {
@@ -97,8 +155,12 @@
       "name": "톰 홀랜드",
       "nationality": "영국",
       "birth_year": 1996,
-      "movies": ["스파이더맨: 홈커밍", "어벤져스: 엔드게임", "스파이더맨: 파 프롬 홈"],
+      "movies": [
+        "스파이더맨: 홈커밍",
+        "어벤져스: 엔드게임",
+        "스파이더맨: 파 프롬 홈"
+      ],
       "comments": []
-    }  
+    }
   ]
 }
