@@ -1,7 +1,8 @@
-import { getMovieById, getMovies, addMovie, addComment } from "./movie.model.mjs";
+import { getMovieById, getMovies, addMovie, addComment } from "../model/movie.model.mjs";
 
 export const handleMovieList = (req, res) => {
-    const movies = getMovies()
+    const {keyword} = req.query;
+    const movies = getMovies(keyword)
     res.send({msg: 'ok', data: movies});
 }
 
@@ -32,6 +33,8 @@ export const handleCommentCreation = (req, res) => {
         res.status(400).send({msg: 'Bad Request'});
         return;
     }
+
+    console.log('comment write :', comment);
 
     const added = addComment(movieId, req.body.comment);
     res.send({msg: 'ok', data: added})
